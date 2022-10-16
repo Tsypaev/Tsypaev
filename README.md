@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on Sber.
+ - I'm currently working on Sber;
+ - Creating highload systems;
+ - Java adept;
+ - Interviewer.
 
 
 ## 🌐 Socials:
